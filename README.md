@@ -10,4 +10,7 @@ São comumente classificados nas seguintes categorias:
  - **Singleton**: @Bean e @AutoWired;
  - **Strategy**: @Service e @Repository;
  - **Facade**: Uma API REST com o mesmo objetivo desse padrão, abstrair a complexidade das seguintes integrações: _Spring Data JPA (Em memória com h2)_ e _ViaCEP(Feign)._
+ 
+## Swagger OpenAPI
+[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
