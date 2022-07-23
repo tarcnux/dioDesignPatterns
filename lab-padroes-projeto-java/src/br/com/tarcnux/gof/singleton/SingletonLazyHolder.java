@@ -1,4 +1,4 @@
-package br.com.tarcnux.gof;
+package br.com.tarcnux.gof.singleton;
 
 /**
  * Singleton "Lazy Holder"

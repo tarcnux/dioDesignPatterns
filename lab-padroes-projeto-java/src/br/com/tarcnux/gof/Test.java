@@ -1,5 +1,9 @@
 package br.com.tarcnux.gof;
 
+import br.com.tarcnux.gof.singleton.SingletonEager;
+import br.com.tarcnux.gof.singleton.SingletonLazy;
+import br.com.tarcnux.gof.singleton.SingletonLazyHolder;
+
 public class Test {
     public static void main(String[] args) {
         SingletonLazy lazy = SingletonLazy.getInstancia();
